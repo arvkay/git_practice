@@ -1,0 +1,1 @@
+This is my sample repository which I used when learning about git and version control.
